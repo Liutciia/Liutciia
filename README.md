@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! I'm a dedicated Data Scientist with a passion for transforming data into actionable insights. My journey in data science is fueled by a deep curiosity and an eagerness to solve complex problems through data-driven solutions.
 
-
+---
 
 🚀 About Me
 
 I specialize in developing and deploying machine learning models to solve real-world problems, optimize business processes, and drive strategic decision-making. My areas of expertise include: Predictive Analytics, Natural Language Processing (NLP) and Data Visualization.
 
-
+---
 
 🛠️ Technologies & Tools
 
@@ -22,8 +22,7 @@ Database Management: MySQL, PostgreSQL
 Tools & Platforms: Jupyter Notebooks, Git
 Other Skills: Data Cleaning, Feature Engineering, A/B Testing, Time Series Analysis
 
-
-
+---
 
 📝 Projects
 
@@ -45,14 +44,14 @@ Designed a deep learning model to classify images based on their content.
 
 Check out my repositories for more exciting projects and code samples!
 
-
+---
 
 🌱 What I'm Currently Learning
 
 I'm always looking to expand my skill set and explore new technologies. Currently, I'm diving deeper into:
 Azure: Enhancing my skills in creation, deployment, and management of data-driven applications.
 
-
+---
 
 🌐 Let's Connect
 
@@ -60,7 +59,7 @@ I'm always open to connecting with like-minded professionals, collaborating on i
 LinkedIn: www.linkedin.com/in/liutciiass
 email: luciasalikhova@gmail.com
 
-
+---
 
 🌟 Fun Fact
 
